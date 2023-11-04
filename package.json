@@ -1,0 +1,12 @@
+{
+  "name": "clean-project",
+  "version": "0.0.1",
+  "main": "./src/server.ts",
+  "scripts": {
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "bun-types": "^1.0.7",
+    "turbo": "^1.10.16"
+  }
+}
