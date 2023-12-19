@@ -6,7 +6,6 @@
     "test": "bun test"
   },
   "devDependencies": {
-    "bun-types": "^1.0.7",
-    "turbo": "^1.10.16"
+    "bun-types": "^1.0.7"
   }
 }
